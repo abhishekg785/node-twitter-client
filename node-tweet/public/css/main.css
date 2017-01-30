@@ -1,0 +1,25 @@
+body {
+    margin : 0px;
+    padding: 0px;
+}
+
+.tweetSection ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.tweetSection ul>li {
+    color: white;
+    padding: 20px;
+    background-color: #2980b9;
+    border-bottom: 4px solid #3498db;
+    transition: background-color 1s ease;
+    height: auto;
+}
+
+.tweetSection ul>li:hover {
+    background-color: #3498db;
+}
