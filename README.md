@@ -1,6 +1,6 @@
 #Twitter Client
  
-A simple twitter client which fetches the tweets containing a particular hashTag and which have been retweeted atleast once and <br/>
+A simple twitter client which fetches the tweets containing a particular hashTag <br/>
 have been re-Tweeted atleast once.
 
 #My Research  :P
